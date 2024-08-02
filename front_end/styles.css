@@ -1,0 +1,29 @@
+body {
+    font-family: 'Courier New', monospace;
+}
+.BigBox  {
+    display: flex;
+    flex-direction: row;
+}
+
+.Playground {
+    flex: 4;
+
+}
+
+.NumberBox {
+
+    flex: 1;
+}
+
+.CanvasDraw {
+    width: 600px;
+    height: 600px;
+    background-color: blanchedalmond;
+
+}
+.CanvasPlayground {
+    width: 100%;
+    height: auto;
+    background-color: blue;
+}
